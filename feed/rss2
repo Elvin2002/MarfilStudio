@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Un espacio para compartir ideas de diseño</title>
+    <link>https://www.onetoestudio.com</link>
+    <description>un espacio para compartir ideas, novedades, criticas constructivas, plantear problemas-soluciones y  también tips de diseño</description>
+    <atom:link href="https://www.onetoestudio.com/feed/rss2" type="application/rss+xml" rel="self" />
+    <image>
+      <title>Un espacio para compartir ideas de diseño</title>
+      <url>https://irp-cdn.multiscreensite.com/ae471cd9/dms3rep/multi/logoB-400x400.jpg</url>
+      <link>https://www.onetoestudio.com</link>
+    </image>
+    <item>
+      <title>Bienvenidos a nuestro OS BLOG!</title>
+      <link>https://www.onetoestudio.com/bienvenidos-a-nuestro-os-blog</link>
+      <description />
+      <pubDate>Sat, 16 Jun 2018 01:24:22 GMT</pubDate>
+      <guid>https://www.onetoestudio.com/bienvenidos-a-nuestro-os-blog</guid>
+      <g-custom:tags type="string" />
+    </item>
+    <item>
+      <title>El Diseño pensado en la foto</title>
+      <link>https://www.onetoestudio.com/el-diseno-pensado-en-la-foto</link>
+      <description>¿Que pasa cuando uno diseña para la foto y no para el usuario?</description>
+      <enclosure url="https://irp-cdn.multiscreensite.com/ae471cd9/dms3rep/multi/slideymcslideslide-825x510.jpg" length="68790" type="image/jpeg" />
+      <pubDate>Sat, 16 Jun 2018 00:49:54 GMT</pubDate>
+      <guid>https://www.onetoestudio.com/el-diseno-pensado-en-la-foto</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://irp-cdn.multiscreensite.com/ae471cd9/dms3rep/multi/slideymcslideslide-825x510.jpg" />
+    </item>
+  </channel>
+</rss>

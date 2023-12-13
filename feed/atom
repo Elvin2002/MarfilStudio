@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Un espacio para compartir ideas de diseño</title>
+  <link rel="alternate" href="https://www.onetoestudio.com" />
+  <subtitle>un espacio para compartir ideas, novedades, criticas constructivas, plantear problemas-soluciones y  también tips de diseño</subtitle>
+  <logo>https://irp-cdn.multiscreensite.com/ae471cd9/dms3rep/multi/logoB-400x400.jpg</logo>
+  <entry>
+    <title>Bienvenidos a nuestro OS BLOG!</title>
+    <link rel="alternate" href="https://www.onetoestudio.com/bienvenidos-a-nuestro-os-blog" />
+    <author>
+      <name />
+    </author>
+    <updated>2018-06-16T01:24:22Z</updated>
+    <published>2018-06-16T01:24:22Z</published>
+    <summary type="text" />
+    <g-custom:tags type="string" />
+  </entry>
+  <entry>
+    <title>El Diseño pensado en la foto</title>
+    <link rel="alternate" href="https://www.onetoestudio.com/el-diseno-pensado-en-la-foto" />
+    <link rel="enclosure" type="image/jpeg" href="https://irp-cdn.multiscreensite.com/ae471cd9/dms3rep/multi/slideymcslideslide-825x510.jpg" length="68790" />
+    <author>
+      <name />
+    </author>
+    <updated>2018-06-16T00:49:54Z</updated>
+    <published>2018-06-16T00:49:54Z</published>
+    <summary type="text">¿Que pasa cuando uno diseña para la foto y no para el usuario?</summary>
+    <g-custom:tags type="string" />
+    <media:content medium="image" url="https://irp-cdn.multiscreensite.com/ae471cd9/dms3rep/multi/slideymcslideslide-825x510.jpg" />
+  </entry>
+</feed>
